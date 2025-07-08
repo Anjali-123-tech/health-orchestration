@@ -1,0 +1,4 @@
+services:
+  - name: user-service
+  - name: payment-service
+  - name: notification-service
